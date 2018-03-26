@@ -1,0 +1,2 @@
+# AppleScriptTest
+AppleScript学习
